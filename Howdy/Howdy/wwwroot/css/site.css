@@ -28,6 +28,8 @@ a {
 -------------------------------------------------- */
 html {
   font-size: 14px;
+  background-image: url("../images/snow_leopard.jpg");
+  background-size: cover;
 }
 @media (min-width: 768px) {
   html {
